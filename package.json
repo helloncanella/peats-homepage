@@ -1,0 +1,14 @@
+{
+  "name": "peats-homepage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-container-mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-break": "^1.2.0"
+  }
+}
